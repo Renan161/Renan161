@@ -3,8 +3,8 @@
 
 
 <div style="display: inline_block"><br>
- (https://github-readme-stats.vercel.app/apiRenan161anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renan161)](https://github.com/Renan161/github-readme-stats)
+
   
   ##
  
