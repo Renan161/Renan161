@@ -1,9 +1,9 @@
-## Renan Werly, desenvolvedor BackEnd
+### Renan Werly, desenvolvedor BackEnd
 
 
 
 <div style="display: inline_block"><br>
-[![Renan Werly GitHub stats](https://github-readme-stats.vercel.app/api?username=Renan161)](https://github.com/anuraghazra/github-readme-stats)
+![Renan Werly GitHub stats](https://github-readme-stats.vercel.app/api?username=Renan161&show_icons=true&theme=Dark)
 
   
   ##
