@@ -3,7 +3,7 @@
 
 
 <div style="display: inline_block"><br>
-[![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renan161)](https://github.com/Renan161/github-readme-stats)
+[![Renan Werly GitHub stats](https://github-readme-stats.vercel.app/api?username=Renan161)](https://github.com/anuraghazra/github-readme-stats)
 
   
   ##
